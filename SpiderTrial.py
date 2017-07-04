@@ -21,3 +21,4 @@ body = buffer.getvalue()
 # We have to know the encoding in order to print it to a text file
 # such as standard output.
 print(body.decode('iso-8859-1'))
+
